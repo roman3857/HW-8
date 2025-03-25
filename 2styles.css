@@ -1,0 +1,41 @@
+th,
+td {
+  border: solid 1px black;
+}
+.Monday:hover {
+  border: solid blue;
+}
+.under-title:nth-child(n+2) {
+    border: solid green;
+}
+
+.Tuesday:hover {
+  border: solid darkorange;
+}
+.Tuesday-title:nth-child(n+2) {
+    border: so
+    lid lawngreen;
+}
+.Wednesday:hover {
+  border: solid purple;
+}
+.Wednesday-title:nth-child(n+2) {
+    border: solid olive;
+}
+
+.Thursday:hover {
+  border: solid darkkhaki;
+}
+.Thursday-title:nth-child(n+2) {
+    border: solid darkred;
+}
+
+.Friday:hover {
+  border: solid fuchsia;
+}
+.Friday-title:nth-child(n+2) {
+    border: solid orchid;
+}
+
+
+
