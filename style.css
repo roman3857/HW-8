@@ -1,12 +1,15 @@
-.text-box>h3 {
-    color: pink;
+.text-box h3:first-of-type {
+  color: pink;
 }
-p[id="greycol"] {
-    color: grey;
+
+#greycol {
+  color: grey;
 }
-.yellow {
-    color: yellow;
+
+.text-box div p {
+  color: red;
 }
-div:empty {
-    color: red;
+
+.text-box .yellow {
+  color: yellow;
 }
